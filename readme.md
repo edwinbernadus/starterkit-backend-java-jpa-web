@@ -12,9 +12,9 @@ snippet list:
 //sql_update  
 //sql_select_list  
 //sql_count  
-//web_socket
+//web_socket  
 
 
-url list:
-http://localhost:8080/employees
-http://localhost:8080/hello?greeting=def
+url list:  
+http://localhost:8080/employees  
+http://localhost:8080/hello?greeting=def  
