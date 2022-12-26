@@ -1,5 +1,5 @@
 starterkit template backend spring boot-jpa-web  
-database using h2  
+database using h2 / postgree
 
 
 snippet list:  
